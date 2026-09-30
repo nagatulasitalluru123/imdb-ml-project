@@ -1,4 +1,4 @@
-# IMDb Movie Rating Prediction — MLOps Labs 1–6
+# IMDb Movie Rating Prediction
 
 This project reorganizes the supplied IMDb Movie Rating Prediction notebook into the same lab-oriented MLOps structure used by the Customer Churn project.
 
